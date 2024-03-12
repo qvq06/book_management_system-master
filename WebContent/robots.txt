@@ -1,0 +1,7 @@
+# Robots.txt file from http://localhost:8080/books
+# All robots will not spider the domain
+User-agent: *
+Disallow: /data/
+Disallow: /admin/
+Disallow: /css/
+Disallow: /script/

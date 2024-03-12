@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/com/rain/bean/AdminBean.java=UTF-8
+encoding//src/com/rain/bean/BookBean.java=UTF-8
+encoding//src/com/rain/bean/HistoryBean.java=UTF-8
+encoding//src/com/rain/dao/AdminDao.java=UTF-8
+encoding//src/com/rain/dao/BookDao.java=UTF-8
+encoding//src/com/rain/servlet/AddBookServlet.java=UTF-8
+encoding//src/com/rain/servlet/AddUserServlet.java=UTF-8
+encoding//src/com/rain/servlet/AdminServlet.java=UTF-8
+encoding//src/com/rain/servlet/LoginServlet.java=UTF-8
+encoding//src/com/rain/servlet/RegisterServlet.java=UTF-8
+encoding//src/com/rain/servlet/borrowServlet.java=UTF-8
+encoding//src/com/rain/servlet/deleteServlet.java=UTF-8
+encoding//src/com/rain/servlet/deleteUserServlet.java=UTF-8
+encoding//src/com/rain/servlet/selectServlet.java=UTF-8
+encoding//src/com/rain/servlet/updateBookServlet.java=UTF-8
+encoding//src/com/rain/servlet/updateUserServlet.java=UTF-8
